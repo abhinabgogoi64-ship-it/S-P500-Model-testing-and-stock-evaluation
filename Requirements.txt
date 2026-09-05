@@ -7,3 +7,4 @@ xgboost
 statsmodels
 scipy
 jupyter
+Plotly
