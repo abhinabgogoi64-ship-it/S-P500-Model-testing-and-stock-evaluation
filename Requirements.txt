@@ -1,0 +1,8 @@
+streamlit>=1.35
+pandas>=2.2
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+xgboost
